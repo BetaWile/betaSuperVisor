@@ -12,11 +12,11 @@
   - [x] Git
   - [x] Snipe
   - [x] Kilit
-  - [x] Rol Al
-  - [x] Rol Ver
+  - [x] Rol-Al
+  - [x] Rol-Ver
   - [x] Me
   - [x] Nuke
-  - [x] Rol İnfo
+  - [x] Rol-İnfo
   - [x] Say
   - [x] Mod-Log
 ## };
@@ -31,7 +31,7 @@
   - [x] Unvmute
   - [x] Sicil
   - [x] Cezapuanı
-  - [x] Cezapuanı Sıfırla
+  - [x] Cezapuanı-Sıfırla
 ## };
 ## • Kayıt {
   - [x] Erkek
@@ -45,7 +45,7 @@
 ## • Stat {
   - [x] Me
   - [x] Top
-  - [x] Top Text
-  - [x] Top Voice
+  - [x] Top-Text
+  - [x] Top-Voice
   - [x] Sıfırla
 ## };
