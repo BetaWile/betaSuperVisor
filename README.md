@@ -47,5 +47,5 @@
   - [x] Top
   - [x] Top-Text
   - [x] Top-Voice
-  - [x] Top-Sıfırla
+  - [x] Stat-Sıfırla
 ## };
