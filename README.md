@@ -1,5 +1,5 @@
 <h1>Discord SuperVizor Bot<h1>
-<img src="" width="100%">
+<!--- -<img src="" width="100%"> --->
 
 ## İçerikler
 
