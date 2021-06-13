@@ -3,7 +3,7 @@
 
 ### **__NOT__**: Bu projeye 10 star geldiğinde paylaşıcam.
 
-##### İçerikler
+### İçerikler ###
 
 ## • Genel {
   - [x] Me
