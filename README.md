@@ -1,7 +1,7 @@
 <h1>Discord SuperVizor Bot<h1>
 <!--- -<img src="" width="100%"> --->
 
-### **__NOT__**: Bu projeye 20 star geldiğinde paylaşıcam.
+### **__NOT__**: Bu projeye 10 star geldiğinde paylaşıcam.
 
 ## İçerikler
 
