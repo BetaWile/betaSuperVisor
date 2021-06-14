@@ -3,7 +3,7 @@
 
  - [Discord SuperVisor Bot](https://github.com/beT4w/bet4SuperVisor)
       - [Kurulum](#kurulum)
-      - [İçerikler](#içerikler)
+      - [İçerikler](#İçerikler)
       - [İletişim](#İletişim)
       - [FAQ](#faq)
 
