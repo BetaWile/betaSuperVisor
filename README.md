@@ -10,8 +10,6 @@
  ## Bot Tanıtım Videosu
  [Bot Tanıtım Videosu(Yakında)]()
 
-### Teşekkürler ❤️
- - [Serandia Squad](https://discord.com/invite/serendia) ve [CodeEming Ailesine](https://discord.gg/fYm5Pj97js) hatalarımda yardım edip zaman harcadıkları için teşekkür ederim.
 
 # Kurulum
 * İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.
@@ -146,6 +144,8 @@
   - [x] Stat-Sıfırla
 ## };
 
+#### Teşekkürler ❤️
+ - [Serandia Squad](https://discord.com/invite/serendia) ve [CodeEming Ailesine](https://discord.gg/fYm5Pj97js) hatalarımda yardım edip zaman harcadıkları için teşekkür ederim.
 
 # İletişim
 * [Discord Profilim](https://discord.com/users/852615172673503262)
