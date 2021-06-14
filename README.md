@@ -3,8 +3,9 @@
 
  - [Discord SuperVisor Bot](https://github.com/beT4w/bet4SuperVisor)
       - [Kurulum](#kurulum)
-      - [FAQ](#faq)
+      - [İçerikler](#içerikler)
       - [İletişim](#İletişim)
+      - [FAQ](#faq)
 
  ## Bot Tanıtım Videosu
  [Bot Tanıtım Videosu(Yakında)]()
@@ -24,6 +25,7 @@
 <img src="https://cdn.discordapp.com/attachments/818953120452575322/851116463166849054/3P4KKB.png"/>
 
 ***Tadaaa 🎉. Artık register botun hazır. Dilediğin gibi kullanabilirsin.***
+
 
 # Neden Yayınlandı?
  Kısaca neden böyle bir şey için uğraştığımı anlatayım. Hem kendimi geliştirmek daha iyi bilgilere ulaşmak hatalar alıp onları nasıl düzeltebileceğimi bulmak tecrübe kazanmak için hemde Türkiyede bu kadar iyi detaylı, özenli bir altyapının olmadığını fark edip bundan sizinde yaralanmanızı istedim.
@@ -141,6 +143,13 @@
   - [x] Stat-Sıfırla
 ## };
 
+
+# İletişim
+* [Discord Profilim](https://discord.com/users/780891365063917572)
+* [Discord Sunucum](https://discord.gg/58UAMVJTSH)
+* Herhangi bir hata bulmanız durumunda ya da yardım isteyeceğiniz zaman buralardan bana ulaşabilirsiniz.
+**A:** Proje içindeki hatalarla ilgileniyorum. Discorddan bana ulaşabilirsin.
+
 # FAQ
 Sıkça sorulan sorulara buradan ulaşabilirsin.
 
@@ -152,10 +161,5 @@ Sıkça sorulan sorulara buradan ulaşabilirsin.
 
 **Q:** Hatalarla ilgileniyor musun?<br />
 
-# İletişim
-* [Discord Profilim](https://discord.com/users/780891365063917572)
-* [Discord Sunucum](https://discord.gg/58UAMVJTSH)
-* Herhangi bir hata bulmanız durumunda ya da yardım isteyeceğiniz zaman buralardan bana ulaşabilirsiniz.
-**A:** Proje içindeki hatalarla ilgileniyorum. Discorddan bana ulaşabilirsin.
 
 ### NOT: Botta MIT lisansı bulunmaktadır. Bu botun dosyalarının benden habersiz paylaşılması/satılması durumunda gerekli işlemler yapılacaktır!
