@@ -8,7 +8,7 @@
       - [FAQ](#faq)
 
  ## Bot Tanıtım Videosu
- [Bot Tanıtım Videosu(Yakında)]()
+ - [Bot Tanıtım Videosu(Yakında)]()
 
 
 # Kurulum
