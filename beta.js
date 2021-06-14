@@ -68,40 +68,38 @@ fs.readdir('./src/Command/Moderation', (err, files) => {
     };
   });
 
-    client.on('guildMemberAdd', async member => {
-      await member.roles.add(config.Register.unreg)
-      require('moment-duration-format')
-      var üyesayısı = member.guild.members.cache.size.toString().replace(/ /g, "    ")
-      var üs = üyesayısı.match(/([0-9])/g)
-      üyesayısı = üyesayısı.replace(/([a-zA-Z])/g, "bilinmiyor").toLowerCase()
-      if(üs) {
-       üyesayısı = üyesayısı.replace(/([0-9])/g, d => {
-         return {
-           '0': `0`, 
-           '1': `1`,
-           '2': `2`,
-           '3': `3`,
-           '4': `4`,
-           '5': `5`,
-           '6': `6`,
-           '7': `7`,
-           '8': `8`,
-           '9': `9`}[d];})}
-           let user = client.users.cache.get(member.id);
-           const kurulus = new Date().getTime() - user.createdAt.getTime();  
-           const gecen = moment.duration(kurulus).format(` YY **[Yıl]** DD **[Gün]** HH **[Saat]** mm **[Dakika,]**`) 
-           var kontrol;
-           if (kurulus > 1296000000) kontrol = `hesabın güvenilir gözüküyor. ${config.Diger.onay}`
-           if (kurulus < 1296000000) kontrol = `hesabın güvenilir gözükmüyor. ${config.Diger.red}`
-             moment.locale("tr");
-           client.channels.cache.get(config.Log.HosgeldinKanal).send(`
-           Sunucumuza hoşgeldin <@`+ member + `> Seninle beraber **`+üyesayısı+`** kişiye ulaştık. \n
-           Hesabın \``+gecen+`\` süresinde kurulduğu için `+kontrol+` \n
-           Birazdan <@&${config.Yetkili.registerYT}> Sizinle ilgilenecektir. \n
-           Solda bulunan kayıt kanalına geçerek kayıt olabilirsiniz. \n
-   
-           `)
-       });
+  client.on('guildMemberAdd', async member => {
+    await member.roles.add(config.Register.unreg)
+    require('moment-duration-format')
+    var üyesayısı = member.guild.members.cache.size.toString().replace(/ /g, "    ")
+    var üs = üyesayısı.match(/([0-9])/g)
+    üyesayısı = üyesayısı.replace(/([a-zA-Z])/g, "bilinmiyor").toLowerCase()
+    if(üs) {
+     üyesayısı = üyesayısı.replace(/([0-9])/g, d => {
+       return {
+         '0': ``, 
+         '1': ``,
+         '2': ``,
+         '3': ``,
+         '4': ``,
+         '5': ``,
+         '6': ``,
+         '7': ``,
+         '8': ``,
+         '9': ``}[d];})}
+         let user = client.users.cache.get(member.id);
+         const kurulus = new Date().getTime() - user.createdAt.getTime();  
+         const gecen = moment.duration(kurulus).format(` YY **[Yıl]** DD **[Gün]** HH **[Saat]** mm **[Dakika,]**`) 
+         var kontrol;
+         if (kurulus > 1296000000) kontrol = `hesabın güvenilir gözüküyor. ${config.Diger.onay}`
+         if (kurulus < 1296000000) kontrol = `hesabın güvenilir gözükmüyor. ${config.Diger.red}`
+           moment.locale("tr");
+         client.channels.cache.get(config.Log.HosgeldinKanal).send(`
+         <@`+ member + `> (\``+ member.id + `\`) Sunucumuza hoşgeldin. \n
+         Hesabın \``+gecen+`\` süresinde kurulduğu için `+kontrol+` \n
+         **__Sunucuya erşebilmek için solda bulunan V.Confirmed odalarına geçerek kayıt olmalısın.__** \n
+         🎉🎉🎉 Seninle beraber **`+üyesayısı+`** kişiye ulaştık. \n`)
+     });
 
 client.on('guildMemberAdd', async (member) => {
   let muteli = db.fetch(`muteli.${member.id}.${member.guild.id}`)
