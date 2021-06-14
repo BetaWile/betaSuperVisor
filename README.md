@@ -160,6 +160,7 @@ Sıkça sorulan sorulara buradan ulaşabilirsin.
 **A:** Eğer istediğin şey hoşuma giderse ve yapmaktan zevk alacaksam eklerim.
 
 **Q:** Hatalarla ilgileniyor musun?<br />
+**A:** Proje içindeki hatalarla ilgileniyorum. Eğer bir hata ile karşılaşırsanız lütfen Discorddan benimle iletişim kurun. 
 
 
 ### NOT: Botta MIT lisansı bulunmaktadır. Bu botun dosyalarının benden habersiz paylaşılması/satılması durumunda gerekli işlemler yapılacaktır!
