@@ -144,7 +144,7 @@
   - [x] Stat-Sıfırla
 ## };
 
-#### Teşekkürler ❤️
+### Teşekkürler 🧡
  - [Serandia Squad](https://discord.com/invite/serendia) ve [CodeEming Ailesine](https://discord.gg/fYm5Pj97js) hatalarımda yardım edip zaman harcadıkları için teşekkür ederim.
 
 # İletişim
