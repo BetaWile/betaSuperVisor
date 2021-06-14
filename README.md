@@ -162,6 +162,9 @@ Sıkça sorulan sorulara buradan ulaşabilirsin.
 **Q:** İstek herhangi bir şey ekliyor musun?<br />
 **A:** Eğer istediğin şey hoşuma giderse ve yapmaktan zevk alacaksam eklerim.
 
+**Q:** Altyapı tamamen sanamı ait?<br />
+**A:** Hayır, tamamen bana ait değil sadece bağzı yapamadığım ufak bir kısmı hazır olarak ekledim.  
+
 **Q:** Hatalarla ilgileniyor musun?<br />
 **A:** Proje içindeki hatalarla ilgileniyorum. Eğer bir hata ile karşılaşırsanız lütfen Discorddan benimle iletişim kurun. 
 
