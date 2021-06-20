@@ -150,8 +150,6 @@
 # İletişim
 * [Discord Profilim](https://discord.com/users/852615172673503262)
 * [Discord Sunucum](https://discord.gg/58UAMVJTSH)
-* Herhangi bir hata bulmanız durumunda ya da yardım isteyeceğiniz zaman buralardan bana ulaşabilirsiniz.
-**A:** Proje içindeki hatalarla ilgileniyorum. Discorddan bana ulaşabilirsin.
 
 # FAQ
 Sıkça sorulan sorulara buradan ulaşabilirsin.
