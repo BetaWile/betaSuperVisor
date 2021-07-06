@@ -1,0 +1,9 @@
+{
+    "Token": "TOKEN",
+    "GuildID": "SUNUCU_ID",
+    "Prefix": ["PREFİX"],
+    "BotVoice": "SES KANALI",
+    "Status": "DURUM",
+    "Tag": "TAG",
+    "UnTag": "TAG"
+}
